@@ -1,0 +1,11 @@
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\bin\Debug\net8.0\InterviewPractice.deps.json
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\bin\Debug\net8.0\InterviewPractice.dll
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\bin\Debug\net8.0\InterviewPractice.pdb
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.AssemblyInfoInputs.cache
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.AssemblyInfo.cs
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.csproj.CoreCompileInputs.cache
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.dll
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\refint\InterviewPractice.dll
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\InterviewPractice.pdb
+C:\Users\GSSHOP.GE\OneDrive\Desktop\Interview\Practice\InterviewPractice\obj\Debug\net8.0\ref\InterviewPractice.dll
